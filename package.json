@@ -2,7 +2,7 @@
   "name": "monolithangular",
   "version": "0.0.1-SNAPSHOT",
   "private": true,
-  "description": "Description for Monolithangular",
+  "description": "Description for Monolithangular Test",
   "license": "UNLICENSED",
   "scripts": {
     "app:start": "./gradlew",
