@@ -1,0 +1,20 @@
+{
+  "changelogDate": "20231230144210",
+  "entityTableName": "employee",
+  "fields": [
+    {
+      "fieldName": "employeeID",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Employee",
+  "pagination": "infinite-scroll",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
